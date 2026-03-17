@@ -14,6 +14,9 @@ Tempo stores all data **locally on your device**. We do not collect, store, or t
 
 All of this data stays on your Mac and is never sent to any server.
 
+### Note:
+This app has the App Sandbox permission "Outgoing Connections (Client)" enabled. This is for the update-check feature. No data is sent.
+
 ## Third-Party Services
 
 Tempo does not use any third-party analytics, tracking, or advertising services.
