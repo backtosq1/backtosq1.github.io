@@ -7,7 +7,9 @@
 Tempo stores all data **locally on your device**. We do not collect, store, or transmit any personal information to external servers.
 
 ### What We Store Locally:
+
 - Timer settings (focus duration, break durations)
+- AI suggestions (based on your local data like focus frequency or quality)
 - Theme preferences
 - Statistics (focus time, completed sessions)
 - Todo list items
@@ -15,7 +17,8 @@ Tempo stores all data **locally on your device**. We do not collect, store, or t
 All of this data stays on your Mac and is never sent to any server.
 
 ### Note:
-This app has the App Sandbox permission "Outgoing Connections (Client)" enabled. This is for the update-check feature. No data is sent.
+
+This app has the App Sandbox permission "Outgoing Connections (Client)" enabled. This is for the App Store update-check feature. No data is sent.
 
 ## Third-Party Services
 
